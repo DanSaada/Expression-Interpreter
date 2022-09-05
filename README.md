@@ -1,5 +1,6 @@
 # Expression-Interpreter
-A program that interpret logical expression./n
+A program that interpret logical expression.
+
 The program can be used to:
 - Evalute expression.
 - Get expression variables.
